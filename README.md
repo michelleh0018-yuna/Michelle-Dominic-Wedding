@@ -23,3 +23,16 @@
 
 <h2>Countdown to Our Wedding ⏳</h2>
 <p id="countdown"></p>
+
+<iframe src="https://www.google.com/maps/embed?pb=..." width="600" height="450"></iframe>
+
+<h2>Wedding Venue 📍</h2>
+
+<iframe 
+  src="PASTE_YOUR_GOOGLE_MAPS_EMBED_LINK_HERE"
+  width="100%" 
+  height="350" 
+  style="border:0; border-radius: 12px;"
+  allowfullscreen="" 
+  loading="lazy">
+</iframe>
