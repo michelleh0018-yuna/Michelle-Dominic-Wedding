@@ -12,3 +12,11 @@
 
   <button type="submit">Send RSVP</button>
 </form>
+
+<h2>Our Memories 📸</h2>
+
+<div class="gallery">
+  <img src="photo1.jpg" />
+  <img src="photo2.jpg" />
+  <img src="photo3.jpg" />
+</div>
